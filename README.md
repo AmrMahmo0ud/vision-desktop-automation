@@ -99,11 +99,6 @@ Right-click the desktop → New → Shortcut .
 uv run main.py
 ```
 
-**Template matching (secondary):**
-```
-uv run botcity_approach.py
-```
-
 ---
 
 ## Output
